@@ -1,0 +1,29 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    background-color: #f4f4f4;
+  }
+h1{
+    font-family:cursive;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  #quiz {
+    background-color: #ca8888;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  #question {
+    font-size: 24px;
+  }
+  
+  #options .custom-control-label {
+    margin-bottom: 10px;
+  }
+  
+  
